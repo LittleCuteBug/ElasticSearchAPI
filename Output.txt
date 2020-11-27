@@ -1,0 +1,2 @@
+Nguyễn Trần Văn Ngọcnguyen tran van ngocmale
+{"education":[{"school":{"name":"hoc vien canh sat nhan dan"}}],"gender":"male","nameRemoveAccents":"nguyen tran van ngoc","work":[{"employer":{"name":"dyno"}},{"employer":{"name":"toa an"}}],"name":"Nguyễn Trần Văn Ngọc"}
